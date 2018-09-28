@@ -1,0 +1,6 @@
+[package]
+name = "git-author-checker"
+version = "0.1.0"
+authors = ["Gyu Kang <hello@gyukang.me>"]
+
+[dependencies]
